@@ -1,5 +1,8 @@
 # Kryptographische Methoden für die IT
 
+### *Fadime Konuk*
+### *c2210537019*
+
 
 ## Kurzübersicht
 
@@ -12,6 +15,7 @@
 * Veracrypt
 * Ubuntu 20.04 oder 22.04
 * dm-Crypt/cryptsetup/luks
+* Referenzen
 
 ## Eigenschaften
 
@@ -118,3 +122,11 @@
 ![7](https://user-images.githubusercontent.com/59235025/193424960-cc374360-e535-44fd-88cf-b96bcf993dd8.PNG)
 
 ![Inked3](https://user-images.githubusercontent.com/59235025/193424973-5a72dac7-1cb8-4fb7-b1bb-c15719a68570.jpg)
+
+## Referenzen
+
+* https://www.ionos.at/digitalguide/websites/web-entwicklung/markdown/
+* https://www.youtube.com/watch?v=eWn29QquTKg&ab_channel=roopeshveerabathini
+* https://www.computerbild.de/artikel/cb-Ratgeber-Anleitung-Software-Daten-sichern-VeraCrypt-kostenlos-2769924.html
+* https://arcanecode.com/2021/05/31/creating-and-using-hidden-containers-in-
+* https://github.com/FatimaYFK/Readme.git
